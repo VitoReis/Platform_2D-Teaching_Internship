@@ -2,6 +2,8 @@
 
 Small 2D platformer prototype developed as a teaching resource during my master's degree to demonstrate the basics of game development in Godot.
 
+<video controls src="Platform2D.mp4" title="Platform2D"></video>
+
 ## Features
 
 - **Playable Player:**
