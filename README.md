@@ -4,7 +4,7 @@ Small 2D platformer prototype developed as a teaching resource during my master'
 
 ![Watch the game demo](https://raw.githubusercontent.com/VitoReis/Platform_2D-Teaching_Internship/refs/heads/main/Platform2D.mp4)
 
-![Class PDF](https://www.canva.com/design/DAGy9Z9NZCI/VQ4jmiljLvrV0mQJ6hLDfw/edit?utm_content=DAGy9Z9NZCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Class PDF](https://www.canva.com/design/DAGy9Z9NZCI/VQ4jmiljLvrV0mQJ6hLDfw/edit?utm_content=DAGy9Z9NZCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Features
 
